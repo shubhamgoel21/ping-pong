@@ -4,7 +4,7 @@ A ping pong game built in **HTML**, **CSS** and **JAVASCRIPT**.
 
 # **How to Play ?**
 
-1. Go to 
+1. Go to https://shubhamgoel21.github.io/ping_pong/
 
 2. Press **Enter** each time to start the game.
 
